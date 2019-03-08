@@ -1,0 +1,13 @@
+{
+    "name": "eti/test-monolog",
+    "description": "Aula Sobre PSR-3",
+    "authors": [
+        {
+            "name": "inoccard",
+            "email": "inocenciocardoso19@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.23"
+    }
+}
